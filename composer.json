@@ -1,0 +1,20 @@
+{
+    "name": "hari/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harikrishnan.E",
+            "email": "harikrishnan9256@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "hari\\contact  ": "src/"
+        }
+    }
+}
