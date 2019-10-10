@@ -14,7 +14,7 @@
 
     "autoload": {
         "psr-4": {
-            "hari\\contact  ": "src/"
+            "hari\\contact\\": "src/"
         }
     }
 }
