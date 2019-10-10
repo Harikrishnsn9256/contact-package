@@ -16,5 +16,14 @@
         "psr-4": {
             "hari\\contact\\": "src/"
         }
+    },
+
+    "extra": {
+    "laravel": {
+        "providers": [
+            "hari\\contact\\ContactServiceProvider"
+        ]
+        
     }
+},
 }
